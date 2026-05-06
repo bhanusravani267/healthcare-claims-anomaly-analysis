@@ -103,23 +103,6 @@ This project directly mirrors real-world Healthcare IT BA work:
 
 ---
 
-## 📁 Project Structure
-healthcare-claims-project/
-├── data/
-│   └── medicare_data.csv        # CMS Medicare public dataset
-├── sql/
-│   └── queries.sql              # All SQL queries used
-├── notebooks/
-│   └── analysis.ipynb           # Full analysis notebook
-├── visuals/
-│   ├── top_provider_charges.png
-│   ├── billing_anomalies.png
-│   ├── state_charges.png
-│   └── medicare_payment_gap.png
-└── README.md
-
----
-
 ## 📂 Data Source
 
 [CMS Medicare Physician & Other Practitioners Dataset](https://data.cms.gov/provider-summary-by-type-of-service/medicare-physician-other-practitioners/medicare-physician-other-practitioners-by-provider-and-service/data)
